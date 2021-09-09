@@ -1,4 +1,4 @@
-#MUHAMMET ENES AY 19010011077
+#MUHAMMET ENES AY
 import random
 while True:
     oyun_modu = int(input("***AMİRAL BATTI OYUNUNA HOSGELDİNİZ***\nOyun modunuz seciniz;\nACIK MOD(1) GİZLİ MOD (2):"))
